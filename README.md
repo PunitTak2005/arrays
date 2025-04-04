@@ -24,9 +24,7 @@ Welcome to the **Arrays Solutions Repository**! This repository contains optimiz
 3. Run the solutions:
    ```sh
    gcc solution.c -o solution && ./solution   # For C
-   g++ solution.cpp -o solution && ./solution # For C++
-   python3 solution.py                         # For Python
-   javac Solution.java && java Solution       # For Java
+
    ```
 
 ## 📚 Contribution Guidelines
