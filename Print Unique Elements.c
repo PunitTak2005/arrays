@@ -30,4 +30,10 @@ int main() {
         }
 
         if(isUnique) {
-            printf("%d ", arr[i]); // Print
+            printf("%d ", arr[i]); // Print the unique element
+        }
+    }
+
+    printf("\n");
+    return 0;
+}
